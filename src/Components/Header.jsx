@@ -19,6 +19,7 @@ const Header = () => {
         top: 0,
         width: "100%",
         zIndex: 10,
+        fontWeight: 600,
       }}
     >
       <a href="#home">Home</a>
